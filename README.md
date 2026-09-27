@@ -1,5 +1,3 @@
-# PAMGuard-LF-HF-Recorder-Control
-A PAMGuard plugin for simultaneous manual control of LF and HF Sound Recorders.
 # PAMGuard LF + HF Recorder Control
 
 A small PAMGuard plugin providing simple manual control of the **LF and HF Sound Recorders** with two large buttons.
