@@ -5,7 +5,6 @@ import PamModel.PamPluginInterface;
 
 public class LFHFRecorderButtonsPlugin implements PamPluginInterface {
 
-```
 private String jarFile;
 
 @Override
@@ -109,6 +108,5 @@ public boolean isItHidden() {
 public int allowedModes() {
     return PamPluginInterface.NOTINVIEWER;
 }
-```
 
 }
